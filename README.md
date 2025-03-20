@@ -6,9 +6,11 @@ Welcome to **Sky-Cast**, your go-to weather application for real-time forecasts 
 
 ## 🌟 Features
 
-✅ **Real-time Weather Updates** - Get the latest weather conditions instantly.
-✅ **User-Friendly UI** - A clean and modern interface for a seamless experience.
-✅ **Multiple Units** - Choose between Celsius and Fahrenheit.
+✅ **Real-time Weather Updates**
+
+✅ **User-Friendly UI**
+
+✅ **Multiple Units** 
 
 ---
 
