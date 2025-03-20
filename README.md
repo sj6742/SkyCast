@@ -56,7 +56,7 @@ Follow these steps to set up and run Sky-Cast on your local machine:
 
 ## 📸 Screenshots
 
-![Sky-Cast Preview]![image](https://github.com/user-attachments/assets/c631a44e-03a5-402f-af83-c1c24ed5f271)
+[image](https://github.com/user-attachments/assets/c631a44e-03a5-402f-af83-c1c24ed5f271)
 
 
 ---
