@@ -86,7 +86,9 @@ We welcome contributions! To contribute:
 ## 📞 Contact
 
 📧 Email: joshisujal85@gmail.com 
+
 🌐 GitHub: https://github.com/sj6742  
+
 💡 Have suggestions? Feel free to open an issue!
 
 ---
