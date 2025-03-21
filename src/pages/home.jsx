@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 import { Search as SearchIcon } from "lucide-react";
-import { Line } from "react-chartjs-2";
+import { Line } from "react-chartjs-2"; // A LIBRARY FOR RENDERING A LINE CHART
 import {
-Chart as ChartJS,
+Chart as ChartJS, // THIS MODULE REQUIRED TO CONFIGURE THE CHART.JS CHART RENDERING GOR THE TEMP. GRAPH
 CategoryScale,
 LinearScale,
 PointElement,
@@ -12,7 +12,7 @@ Tooltip,
 Legend,
 } from "chart.js";
 
-ChartJS.register(
+ChartJS.register( // THIS REGISTER THE NECESSARY CHART COMPONENT
 CategoryScale,
 LinearScale,
 PointElement,
@@ -35,7 +35,7 @@ const [unit, setUnit] = useState("metric");
 const [loading, setLoading] = useState(false);
 const [searchQuery, setSearchQuery] = useState("");
 
-const fetchWeather = async (city) => {
+const fetchWeather = async (city) => { // FETCH THE CURRENT WEATHER DATA FOR SEARCHED CITY 
     try {
     setLoading(true);
     const apiKey = import.meta.env.VITE_APP_ID;
