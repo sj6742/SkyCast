@@ -576,6 +576,8 @@ return (
             </button>
         </div>
 
+        
+
           {/* Hourly Forecast */}
         {weatherData.hourlyForecast.length > 0 && (
             <div className="mt-6">
